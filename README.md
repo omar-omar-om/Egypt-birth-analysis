@@ -9,13 +9,15 @@ the data was provided form the ministry of planning and economic development in 
 
 3. Technologies Used:
 Programming Language: Python
+
+
 Libraries:
 Pandas (for data manipulation)
 Matplotlib & Seaborn (for data visualization)
 NumPy (for numerical computations)
 Jupyter Notebook (for the interactive environment)
 
-4. Analysis and Insights:
+5. Analysis and Insights:
 
    
 Peak Birth Registrations on January 1st and October 1st:
