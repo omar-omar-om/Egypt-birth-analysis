@@ -30,7 +30,7 @@ The most significant spikes in birth registrations occur on **January 1st** and 
 
 ![image_2024-09-05_175019950](https://github.com/user-attachments/assets/6051fa49-242b-4180-8b3b-4e653ded7325)
 
-The data shows a steady decline in births between 2018 and 2024, likely driven by factors such as the rising cost of living, later marriage ages, government policies (e.g., Egyptian Family Development), and the impact of COVID-19.
+The data shows a steady decline in births between 2018 and 2023, likely driven by factors such as the rising cost of living, later marriage ages, government policies (e.g., Egyptian Family Development), and the impact of COVID-19.
 
 ![image_2024-09-05_175225337](https://github.com/user-attachments/assets/b3305c31-13ee-4f3f-9205-40f73c41b8e2)
 
