@@ -37,4 +37,18 @@ The data shows a steady decline in births between 2018 and 2024, likely driven b
 
 Summer months (June–August) show higher daily birth rates on average, while the median number of births remains relatively consistent across most months.
 
+5. Key Steps in the Analysis:
+   
+Data Cleaning: Removing missing values, correcting inconsistencies.
+
+Exploratory Data Analysis (EDA): Visualizing birth trends over time.
+
+6. Results/Conclusion:
+   
+The project highlights how external systems like education and registration practices can influence reported birth trends. By understanding these patterns, governments and organizations can better plan for resources and policies. The project concludes that societal factors such as education policies play a role in birth registration spikes.
+
+7. Contributors:
+   
+Author: Omar Ibrahim
+
 
