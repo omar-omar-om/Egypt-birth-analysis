@@ -1,13 +1,13 @@
 # Egypt birth analysis
 
-1. Project Description:
+## Project Description:
 This project involves analyzing birth data in Egypt from 2018 to 2023 to uncover patterns and trends in birth registrations, specifically focusing on how certain dates (like January 1st and October 1st) show peaks in births. The analysis aims to explain these trends by exploring societal factors such as school registration systems and registration practices.
 The project leverages Python for data manipulation, cleaning, and visualization to gain insights and present findings.
 
-2. Data Source:
+## Data Source:
 the data was provided form the ministry of planning and economic development in Egypt.
 
-3. Technologies Used:
+## Technologies Used:
    
 Programming Language: Python
 
@@ -18,7 +18,7 @@ Matplotlib & Seaborn (for data visualization)
 NumPy (for numerical computations)
 Jupyter Notebook (for the interactive environment)
 
-4. Analysis and Insights:
+## Analysis and Insights:
    
 ![image_2024-09-05_174912108](https://github.com/user-attachments/assets/09c5e301-95d0-42f1-ab9c-b42424f03d42)
 
@@ -37,17 +37,17 @@ The data shows a steady decline in births between 2018 and 2024, likely driven b
 
 Summer months (June–August) show higher daily birth rates on average, while the median number of births remains relatively consistent across most months.
 
-5. Key Steps in the Analysis:
+## Key Steps in the Analysis:
    
 Data Cleaning: Removing missing values, correcting inconsistencies.
 
 Exploratory Data Analysis (EDA): Visualizing birth trends over time.
 
-6. Results/Conclusion:
+## Results/Conclusion:
    
 The project highlights how external systems like education and registration practices can influence reported birth trends. By understanding these patterns, governments and organizations can better plan for resources and policies. The project concludes that societal factors such as education policies play a role in birth registration spikes.
 
-7. Contributors:
+## Contributors:
    
 Author: Omar Ibrahim
 
