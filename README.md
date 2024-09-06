@@ -5,7 +5,7 @@ This project involves analyzing birth data in Egypt from 2018 to 2023 to uncover
 The project leverages Python for data manipulation, cleaning, and visualization to gain insights and present findings.
 
 ## Data Source:
-the data was provided form the ministry of planning and economic development in Egypt.
+the data was provided from the ministry of planning and economic development in Egypt.
 
 ## Technologies Used:
    
